@@ -13,6 +13,9 @@ This project implements a real-time pose detection system that can:
 
 **Applications**: Fitness tracking, sports analysis, motion capture, rehabilitation, gesture recognition, and human-computer interaction.
 
+## 🎥 Project Demo
+**[Watch Demo Video](https://drive.google.com/file/d/1xDwZq8FN7rjnSnxBhqIcSB00I9zhLZrd/view?usp=sharing)**
+
 ## ✨ Features
 
 - **Real-time Processing**: Live pose detection from webcam feed
